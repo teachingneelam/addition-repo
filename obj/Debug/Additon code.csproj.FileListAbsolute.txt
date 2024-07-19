@@ -1,0 +1,7 @@
+C:\Users\neela\source\repos\Additon code\Additon code\bin\Debug\Additon code.exe.config
+C:\Users\neela\source\repos\Additon code\Additon code\bin\Debug\Additon code.exe
+C:\Users\neela\source\repos\Additon code\Additon code\bin\Debug\Additon code.pdb
+C:\Users\neela\source\repos\Additon code\Additon code\obj\Debug\Additon code.csproj.AssemblyReference.cache
+C:\Users\neela\source\repos\Additon code\Additon code\obj\Debug\Additon code.csproj.CoreCompileInputs.cache
+C:\Users\neela\source\repos\Additon code\Additon code\obj\Debug\Additon code.exe
+C:\Users\neela\source\repos\Additon code\Additon code\obj\Debug\Additon code.pdb
