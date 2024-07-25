@@ -1,0 +1,7 @@
+C:\Users\neela\source\repos\multiplication code\multiplication code\bin\Debug\multiplication code.exe.config
+C:\Users\neela\source\repos\multiplication code\multiplication code\bin\Debug\multiplication code.exe
+C:\Users\neela\source\repos\multiplication code\multiplication code\bin\Debug\multiplication code.pdb
+C:\Users\neela\source\repos\multiplication code\multiplication code\obj\Debug\multiplication code.csproj.AssemblyReference.cache
+C:\Users\neela\source\repos\multiplication code\multiplication code\obj\Debug\multiplication code.csproj.CoreCompileInputs.cache
+C:\Users\neela\source\repos\multiplication code\multiplication code\obj\Debug\multiplication code.exe
+C:\Users\neela\source\repos\multiplication code\multiplication code\obj\Debug\multiplication code.pdb
