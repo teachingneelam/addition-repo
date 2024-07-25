@@ -1,0 +1,7 @@
+C:\Users\neela\source\repos\subtraction code\subtraction code\bin\Debug\subtraction code.exe.config
+C:\Users\neela\source\repos\subtraction code\subtraction code\bin\Debug\subtraction code.exe
+C:\Users\neela\source\repos\subtraction code\subtraction code\bin\Debug\subtraction code.pdb
+C:\Users\neela\source\repos\subtraction code\subtraction code\obj\Debug\subtraction code.csproj.AssemblyReference.cache
+C:\Users\neela\source\repos\subtraction code\subtraction code\obj\Debug\subtraction code.csproj.CoreCompileInputs.cache
+C:\Users\neela\source\repos\subtraction code\subtraction code\obj\Debug\subtraction code.exe
+C:\Users\neela\source\repos\subtraction code\subtraction code\obj\Debug\subtraction code.pdb
